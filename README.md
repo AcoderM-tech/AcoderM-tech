@@ -12,7 +12,7 @@ Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman �
 
 ---
 
-### 💻 Texnologiyalar va Infratuzilma (Tech Stack)
+###  Texnologiyalar va Infratuzilma (Tech Stack)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,django,fastapi,cpp,postgres,mysql,redis,docker,nginx,cloudflare,linux,ubuntu,git,github,gitlab,aws,vercel,render&theme=dark" alt="Tech Stack Icons" />
@@ -41,8 +41,8 @@ Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman �
 
 ---
 
-### 📫 Men bilan bog'lanish
+### Men bilan bog'lanish
 
-- 🌐 Portfolio: [portfolio.acoderm.uz](https://portfolio.acoderm.uz)
-- 📧 Email: [mekhriddinoff07@gmail.com](mailto:mekhriddinoff07@gmail.com)
-- ✈️ Telegram: [@acoderm](https://t.me/acoderm)
+- Portfolio: [portfolio.acoderm.uz](https://portfolio.acoderm.uz)
+- Email: [mekhriddinoff07@gmail.com](mailto:mekhriddinoff07@gmail.com)
+- Telegram: [@acoderm](https://t.me/acoderm)
