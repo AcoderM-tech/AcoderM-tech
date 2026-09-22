@@ -1,4 +1,4 @@
-<h1 align="center">Salom, men Mexriddinov Avazbekman! 👋</h1>
+<h1 align="center">Salom, men Mexriddinov Avazbekman! </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Backend+Developer;DevOps+Engineer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Haqida
+###  Haqida
 
 Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman — asosan Python tilida. Toshkent Axborot Texnologiyalari Universitetining 3-kurs talabasiman va GISLAB laboratoriyasida ilmiy-amaliy ishlar olib boraman.
 
@@ -20,7 +20,7 @@ Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman �
 
 ---
 
-<h3 align="center">📊 GitHub profil statistikasi</h3>
+<h3 align="center">GitHub profil statistikasi</h3>
 
 <p align="center">
   <table border="0" align="center">
