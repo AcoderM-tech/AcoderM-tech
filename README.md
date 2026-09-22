@@ -29,14 +29,14 @@ Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman �
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="Databases" />
 </p>
 
-#### 🔹 DevOps va Infratuzilma
+#### 🔹 DevOps, Bulutli xizmatlar va Infratuzilma
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,linux,ubuntu&theme=dark" alt="DevOps & Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,linux,ubuntu,aws,vercel,render&theme=dark" alt="DevOps & Infrastructure" />
 </p>
 
-#### 🔹 Versiyalar boshqaruvi, Bulutli xizmatlar va Platformalar
+#### 🔹 Versiyalar boshqaruvi
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,vercel,render&theme=dark" alt="Tools & Cloud" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark" alt="Version Control" />
 </p>
 
 ---
