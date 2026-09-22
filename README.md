@@ -5,53 +5,85 @@
 </p>
 
 <p align="center">
-  Toshkent Axborot Texnologiyalari Universitetining 3-kurs talabasiman. Backend dasturlash, sun'iy intellekt va DevOps yo'nalishlarida o'z loyihalarimni rivojlantirib kelmoqdaman.
+  Toshkent Axborot Texnologiyalari Universitetining 3-kurs talabasiman. Backend dasturlash, sun'iy intellekt va DevOps yo'nalishlarida loyihalar yaratib kelmoqdaman.
 </p>
 
 ---
 
 ### 💻 Texnologiyalar va Qurollar (Tech Stack)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,react,js,cpp,html,css,tailwind,postgres,mysql,redis,docker,nginx,linux,git,github,vscode&theme=dark" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br>
+        <sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br>
+        <sub><b>Django</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br>
+        <sub><b>FastAPI</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>
+        <sub><b>React</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>
+        <sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>
+        <sub><b>C++</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>
+        <sub><b>PostgreSQL</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>
+        <sub><b>Redis</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>
+        <sub><b>Docker</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /><br>
+        <sub><b>Nginx</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>
+        <sub><b>Linux</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>
+        <sub><b>Git</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 📊 GitHub Statistikasi va Yutuqlar
+### 📊 GitHub Statistikasi
 
-<!-- GitHub Trophies - Profilingizga o'ziga xos kuboklar va "jonli" ko'rinish beradi -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Acoderm-M&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Acoderm-M&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Acoderm-M&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acoderm-M&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acoderm-M&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acoderm-M&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acoderm-M&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-### 🐍 GitHub contributions-ni yutuvchi Ilon (Snake Effect)
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Acoderm-M/Acoderm-M/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Acoderm-M/Acoderm-M/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
-  </picture>
-</p>
-
----
-
-### ⚡ Qiziqarli Faktlar
-- 🔭 Hozirda **TUITPRIME** tizimi va AI loyihalar ustida ishlayapman.
-- 🏆 Universitet miqyosidagi musobaqalarda gandbol va shaxmat bo'yicha sovrinli o'rinlarni egallaganman.
-- ⚡ Asosiy maqsadim: Skalalanuvchan backend arxitektura va sun'iy intellektni birlashtirish.
 
 ---
 
@@ -60,7 +92,3 @@
 - 🌐 Portfolio: [portfolio.acoderm.uz](https://portfolio.acoderm.uz)
 - 📧 Email: [mekhriddinoff07@gmail.com](mailto:mekhriddinoff07@gmail.com)
 - ✈️ Telegram: [@acoderm](https://t.me/acoderm)
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
