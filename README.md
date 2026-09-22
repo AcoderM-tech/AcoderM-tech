@@ -10,21 +10,22 @@
 
 ---
 
-### 🚀 Texnologiyalar va Qurollar (Tech Stack)
+### 💻 Texnologiyalar va Qurollar (Tech Stack)
 
 <p align="center">
-  <!-- Dasturlash tillari va freymvorklar -->
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,react,js,cpp,html,css,tailwind&theme=dark" />
-</p>
-
-<p align="center">
-  <!-- Ma'lumotlar bazasi va DevOps -->
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx,linux,git,github,vscode&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,react,js,cpp,html,css,tailwind,postgres,mysql,redis,docker,nginx,linux,git,github,vscode&theme=dark" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Statistikasi
+### 📊 GitHub Statistikasi va Yutuqlar
+
+<!-- GitHub Trophies - Profilingizga o'ziga xos kuboklar va "jonli" ko'rinish beradi -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Acoderm-M&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</p>
 
 <p align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Acoderm-M&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -34,6 +35,23 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acoderm-M&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### 🐍 GitHub contributions-ni yutuvchi Ilon (Snake Effect)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Acoderm-M/Acoderm-M/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Acoderm-M/Acoderm-M/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
+  </picture>
+</p>
+
+---
+
+### ⚡ Qiziqarli Faktlar
+- 🔭 Hozirda **TUITPRIME** tizimi va AI loyihalar ustida ishlayapman.
+- 🏆 Universitet miqyosidagi musobaqalarda gandbol va shaxmat bo'yicha sovrinli o'rinlarni egallaganman.
+- ⚡ Asosiy maqsadim: Skalalanuvchan backend arxitektura va sun'iy intellektni birlashtirish.
 
 ---
 
