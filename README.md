@@ -62,21 +62,6 @@ Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman �
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000"/>
 
-## 📊 GitHub profil statistikasi
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AcoderM-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com?user=AcoderM-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcoderM-tech&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AcoderM-tech&theme=tokyonight" alt="Profile Details" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000"/>
-
 ## 📫 Men bilan bog'lanish
 
 <div align="center">
