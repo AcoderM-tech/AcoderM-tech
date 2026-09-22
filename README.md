@@ -1,69 +1,116 @@
-<h1 align="center">Salom, men Mexriddinov Avazbekman! 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Backend+Developer;DevOps+Engineer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Assalomu%20alaykum!%20Men%20Avazbek%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20DevOps%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18"/>
 
-<!-- Kod yozib turgan animatsion odamcha (GIF) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/M9AQHJVPK04Ww/giphy.gif" width="350" alt="Coding Animation" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;DevOps+Engineer+%E2%9A%99%EF%B8%8F;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%7C+Django+%7C+FastAPI+%F0%9F%90%8D" alt="Typing SVG" />
 
----
+<br/>
 
-### 🚀 Haqida
+<img src="https://media.giphy.com/media/M9AQHJVPK04Ww/giphy.gif" width="380" alt="Coding Animation" />
 
-Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman — asosan Python tilida. Toshkent Axborot Texnologiyalari Universitetining 3-kurs talabasiman va GISLAB laboratoriyasida ilmiy-amaliy ishlar olib boraman.
+</div>
 
----
+<br/>
 
-### 💻 Texnologiyalar va Infratuzilma (Tech Stack)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000"/>
 
-#### 🔹 Dasturlash tillari va Frameworklar
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,cpp&theme=dark" alt="Languages & Frameworks" />
-</p>
+## 🚀 Men haqimda
 
-#### 🔹 Ma'lumotlar bazasi va Kesh
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="Databases" />
-</p>
+```python
+class Avazbek:
+    def __init__(self):
+        self.name = "Mexriddinov Avazbekman"
+        self.role = "Backend Developer & DevOps Engineer"
+        self.university = "Toshkent Axborot Texnologiyalari Universiteti"
+        self.year = "3-kurs talabasi"
+        self.lab = "GISLAB — ilmiy-amaliy tadqiqotlar"
+        self.language = "Python 🐍"
+        self.currently_learning = ["AI/ML", "Cloud Infrastructure"]
 
-#### 🔹 DevOps, Bulutli xizmatlar va Infratuzilma
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,linux,ubuntu,aws,vercel,render&theme=dark" alt="DevOps & Infrastructure" />
-</p>
+    def say_hi(self):
+        print("Loyihalarim orqali muloqotga tayyorman! 🚀")
 
-#### 🔹 Versiyalar boshqaruvi
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark" alt="Version Control" />
-</p>
+me = Avazbek()
+me.say_hi()
+```
 
----
+Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman — asosan **Python** tilida. Toshkent Axborot Texnologiyalari Universitetining 3-kurs talabasiman va **GISLAB** laboratoriyasida ilmiy-amaliy ishlar olib boraman.
 
-<h3 align="center">📊 GitHub profil statistikasi</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000"/>
 
-<p align="center">
-  <table border="0" align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AcoderM-tech&theme=tokyonight" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AcoderM-tech&theme=tokyonight" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</p>
+## 💻 Texnologiyalar va Infratuzilma
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AcoderM-tech&theme=tokyonight" alt="Profile Details" />
-</p>
+<div align="center">
 
----
+**🔹 Dasturlash tillari va Frameworklar**
 
-### 📫 Men bilan bog'lanish
+<img src="https://skillicons.dev/icons?i=py,django,fastapi,cpp&theme=dark" alt="Languages & Frameworks" />
 
-- 🌐 Portfolio: [portfolio.acoderm.uz](https://portfolio.acoderm.uz)
-- 📧 Email: [mekhriddinoff07@gmail.com](mailto:mekhriddinoff07@gmail.com)
-- ✈️ Telegram: [@acoderm](https://t.me/acoderm)
+**🔹 Ma'lumotlar bazasi va Kesh**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="Databases" />
+
+**🔹 DevOps, Bulutli xizmatlar va Infratuzilma**
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,linux,ubuntu,aws,vercel,render&theme=dark" alt="DevOps & Infrastructure" />
+
+**🔹 Versiyalar boshqaruvi**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark" alt="Version Control" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000"/>
+
+## 📊 GitHub profil statistikasi
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AcoderM-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AcoderM-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcoderM-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AcoderM-tech&theme=tokyonight" alt="Profile Details" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000"/>
+
+## 🐍 Faollik grafigi (Contribution Snake)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AcoderM-tech/AcoderM-tech/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<sub>💡 Bu animatsiyani ishga tushirish uchun repo'ingizda <code>github/workflows/snake.yml</code> Action sozlanishi kerak — pastdagi izohga qarang.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000"/>
+
+## 📫 Men bilan bog'lanish
+
+<div align="center">
+
+<a href="https://portfolio.acoderm.uz" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:mekhriddinoff07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://t.me/acoderm" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AcoderM-tech&style=for-the-badge&color=3B82F6" alt="Profile views"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
