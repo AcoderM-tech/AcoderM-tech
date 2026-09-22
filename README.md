@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+  <img src="https://demolab.com" alt="GitHub Streak" />
 </p>
 
 ---
