@@ -77,18 +77,6 @@ Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman �
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000"/>
 
-## 🐍 Faollik grafigi (Contribution Snake)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AcoderM-tech/AcoderM-tech/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-<sub>⚠️ Bu rasm hozircha ko'rinmaydi, chunki <code>output</code> nomli branch va SVG fayl repo'ingizda hali generatsiya qilinmagan. Pastda berilgan <code>snake.yml</code> faylini <code>.github/workflows/</code> papkasiga qo'shsangiz, GitHub Action avtomatik ishga tushib shu rasmni yaratadi (birinchi marta Actions tab'dan qo'lda "Run workflow" bosish kerak bo'lishi mumkin).</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000"/>
-
 ## 📫 Men bilan bog'lanish
 
 <div align="center">
