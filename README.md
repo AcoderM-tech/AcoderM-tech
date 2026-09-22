@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  Toshkent Axborot Texnologiyalari Universitetining 3-kurs talabasiman.
-  Backend dasturlash, sun'iy intellekt va DevOps yo'nalishlarida loyihalar yaratib kelmoqdaman.
+  Toshkent Axborot Texnologiyalari Universitetining 3-kurs talabasiman. Backend dasturlash, sun'iy intellekt va DevOps yo'nalishlarida loyihalar yaratib kelmoqdaman.
 </p>
 
 ---
@@ -41,7 +40,6 @@
         <sub><b>C++</b></sub>
       </td>
     </tr>
-
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>
@@ -76,24 +74,15 @@
 ### 📊 GitHub statistikasi
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AcoderM-tech&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub statistikasi"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AcoderM-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistikasi" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcoderM-tech&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Eng yaxshi tillar"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcoderM-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Eng yaxshi tillar" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AcoderM-tech&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=AcoderM-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
