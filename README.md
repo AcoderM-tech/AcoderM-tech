@@ -6,8 +6,6 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/M9AQHJVPK04Ww/giphy.gif" width="380" alt="Coding Animation" />
-
 </div>
 
 <br/>
@@ -19,8 +17,8 @@
 ```python
 class Avazbek:
     def __init__(self):
-        self.name = "Mexriddinov Avazbekman"
-        self.role = "Backend Developer & DevOps Engineer"
+        self.name = "Mexriddinov Avazbek Anvarovich"
+        self.role = "Backend Developer & DevOps Engineer & ML Engineer"
         self.university = "Toshkent Axborot Texnologiyalari Universiteti"
         self.year = "3-kurs talabasi"
         self.lab = "GISLAB — ilmiy-amaliy tadqiqotlar"
