@@ -52,7 +52,7 @@ Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman â
 
 **ðŸ”¹ DevOps, Bulutli xizmatlar va Infratuzilma**
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,linux,ubuntu,aws,vercel,render&theme=dark" alt="DevOps & Infrastructure" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,linux,ubuntu,aws,vercel,render&theme=dark&perline=4" alt="DevOps & Infrastructure" />
 
 **ðŸ”¹ Versiyalar boshqaruvi**
 
@@ -62,7 +62,7 @@ Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman â
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" height="28" alt="Bar Chart"/> GitHub profil statistikasi
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28" height="28" alt="High Voltage"/> GitHub profil statistikasi
 
 <div align="center">
 
@@ -76,7 +76,7 @@ Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman â
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" width="28" height="28" alt="Mailbox"/> Men bilan bog'lanish
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="28" height="28" alt="Sparkling Heart"/> Men bilan bog'lanish
 
 <div align="center">
 
