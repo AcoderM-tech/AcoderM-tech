@@ -38,7 +38,7 @@ Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman â
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Laptop.png" width="28" height="28" alt="Laptop"/> Texnologiyalar va Infratuzilma
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Robot.png" width="28" height="28" alt="Robot"/> Texnologiyalar va Infratuzilma
 
 <div align="center">
 
