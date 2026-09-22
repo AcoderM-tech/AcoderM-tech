@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Assalomu%20alaykum%21%20Men%20Avazbek%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20AI/ML%20Enthusiast&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Assalomu%20alaykum%21%20Men%20AcoderM%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20AI/ML%20Enthusiast&descAlignY=58&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;DevOps+Engineer+%E2%9A%99%EF%B8%8F;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%7C+Django+%7C+FastAPI+%F0%9F%90%8D" alt="Typing SVG" />
 
