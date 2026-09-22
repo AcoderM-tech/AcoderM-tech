@@ -14,7 +14,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000"/>
 
-## ðŸš€ Men haqimda
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" height="28" alt="Rocket"/> Men haqimda
 
 ```python
 class Avazbek:
@@ -38,7 +38,7 @@ Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman â
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000"/>
 
-## ðŸ’» Texnologiyalar va Infratuzilma
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Laptop.png" width="28" height="28" alt="Laptop"/> Texnologiyalar va Infratuzilma
 
 <div align="center">
 
@@ -62,7 +62,21 @@ Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman â
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000"/>
 
-## ðŸ“« Men bilan bog'lanish
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" height="28" alt="Bar Chart"/> GitHub profil statistikasi
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AcoderM-tech&theme=tokyonight" alt="GitHub Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AcoderM-tech&theme=tokyonight" alt="Top Languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AcoderM-tech&theme=tokyonight" alt="Profile Details" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" width="28" height="28" alt="Mailbox"/> Men bilan bog'lanish
 
 <div align="center">
 
