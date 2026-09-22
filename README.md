@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Assalomu%20alaykum!%20Men%20Avazbek%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20DevOps%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Assalomu%20alaykum%21%20Men%20Avazbek%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20DevOps%20Engineer%20%26%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;DevOps+Engineer+%E2%9A%99%EF%B8%8F;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%7C+Django+%7C+FastAPI+%F0%9F%90%8D" alt="Typing SVG" />
 
@@ -66,10 +66,10 @@ Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman �
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AcoderM-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AcoderM-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AcoderM-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
+<img src="https://streak-stats.demolab.com?user=AcoderM-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcoderM-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcoderM-tech&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AcoderM-tech&theme=tokyonight" alt="Profile Details" />
 
@@ -83,7 +83,7 @@ Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman �
 
 <img src="https://raw.githubusercontent.com/AcoderM-tech/AcoderM-tech/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<sub>💡 Bu animatsiyani ishga tushirish uchun repo'ingizda <code>github/workflows/snake.yml</code> Action sozlanishi kerak — pastdagi izohga qarang.</sub>
+<sub>⚠️ Bu rasm hozircha ko'rinmaydi, chunki <code>output</code> nomli branch va SVG fayl repo'ingizda hali generatsiya qilinmagan. Pastda berilgan <code>snake.yml</code> faylini <code>.github/workflows/</code> papkasiga qo'shsangiz, GitHub Action avtomatik ishga tushib shu rasmni yaratadi (birinchi marta Actions tab'dan qo'lda "Run workflow" bosish kerak bo'lishi mumkin).</sub>
 
 </div>
 
