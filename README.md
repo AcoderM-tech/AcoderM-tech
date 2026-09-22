@@ -1,4 +1,4 @@
-<h1 align="center">Salom, men Mexriddinov Avazbekman! </h1>
+<h1 align="center">Salom, men Mexriddinov Avazbekman! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Backend+Developer;DevOps+Engineer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
@@ -11,21 +11,37 @@
 
 ---
 
-### Haqida
+### 🚀 Haqida
 
 Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman — asosan Python tilida. Toshkent Axborot Texnologiyalari Universitetining 3-kurs talabasiman va GISLAB laboratoriyasida ilmiy-amaliy ishlar olib boraman.
 
 ---
 
-### Texnologiyalar va Infratuzilma (Tech Stack)
+### 💻 Texnologiyalar va Infratuzilma (Tech Stack)
 
+#### 🔹 Dasturlash tillari va Frameworklar
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,cpp,postgres,mysql,redis,docker,nginx,cloudflare,linux,ubuntu,git,github,gitlab,aws,vercel,render&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,cpp&theme=dark" alt="Languages & Frameworks" />
+</p>
+
+#### 🔹 Ma'lumotlar bazasi va Kesh
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="Databases" />
+</p>
+
+#### 🔹 DevOps va Infratuzilma
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,linux,ubuntu&theme=dark" alt="DevOps & Infrastructure" />
+</p>
+
+#### 🔹 Versiyalar boshqaruvi, Bulutli xizmatlar va Platformalar
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,vercel,render&theme=dark" alt="Tools & Cloud" />
 </p>
 
 ---
 
-<h3 align="center">GitHub profil statistikasi</h3>
+<h3 align="center">📊 GitHub profil statistikasi</h3>
 
 <p align="center">
   <table border="0" align="center">
@@ -46,8 +62,8 @@ Men backend tizimlarni yarataman va sun'iy intellekt mahsulotlarini qo'llayman �
 
 ---
 
-###  Men bilan bog'lanish
+### 📫 Men bilan bog'lanish
 
--  Portfolio: [portfolio.acoderm.uz](https://portfolio.acoderm.uz)
--  Email: [mekhriddinoff07@gmail.com](mailto:mekhriddinoff07@gmail.com)
--  Telegram: [@acoderm](https://t.me/acoderm)
+- 🌐 Portfolio: [portfolio.acoderm.uz](https://portfolio.acoderm.uz)
+- 📧 Email: [mekhriddinoff07@gmail.com](mailto:mekhriddinoff07@gmail.com)
+- ✈️ Telegram: [@acoderm](https://t.me/acoderm)
